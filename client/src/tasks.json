@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "assignee": "John",
+      "status": "In Progress",
+      "title": "Implement Login Feature",
+      "description": "Develop the login functionality for the website.",
+      "created_date": "2023-05-27"
+    },
+    {
+      "id": 2,
+      "assignee": "Emily",
+      "status": "Pending",
+      "title": "Design Homepage",
+      "description": "Create the visual layout and design for the homepage.",
+      "created_date": "2023-05-25"
+    },
+    {
+      "id": 3,
+      "assignee": "Michael",
+      "status": "Completed",
+      "title": "Bug Fixing",
+      "description": "Identify and fix the bugs reported by the QA team.",
+      "created_date": "2023-05-26"
+    },
+    {
+      "id": 4,
+      "assignee": "John",
+      "status": "In Progress",
+      "title": "Implement Login Feature",
+      "description": "Develop the login functionality for the website.",
+      "created_date": "2023-05-27"
+    },
+    {
+      "id": 5,
+      "assignee": "Emily",
+      "status": "Pending",
+      "title": "Design Homepage",
+      "description": "Create the visual layout and design for the homepage.",
+      "created_date": "2023-05-25"
+    },
+    {
+      "id": 6,
+      "assignee": "Michael",
+      "status": "Completed",
+      "title": "Bug Fixing",
+      "description": "Identify and fix the bugs reported by the QA team.",
+      "created_date": "1995-12-17T17:24:00"
+    }
+  ]
+  
