@@ -1,3 +1,15 @@
 .info-badge {
   text-transform: capitalize !important;
 }
+
+.task-status {
+  text-transform: capitalize !important;
+}
+
+.assignee-select > option {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  background: #475467;
+}

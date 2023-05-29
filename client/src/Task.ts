@@ -1,11 +1,9 @@
-interface Task {
-  id: number;
+export type Task = {
+  _id: string;
   assignee: string;
   status: string;
   title: string;
   description: string;
-  created_date: string; 
+  createdDate: string;
   linkedTasks?: Task[];
-}
-
-export default Task;
+};

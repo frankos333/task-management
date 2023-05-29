@@ -1,5 +1,5 @@
 import React from "react";
-import Task from "./Task";
+import { Task } from "./Task";
 import { Flex } from "@chakra-ui/react";
 import TaskCard from "./components/TaskCard";
 
@@ -11,7 +11,7 @@ const TaskList: React.FC<TaskListProps> = ({ tasks }) => {
   return (
     <Flex direction="column" color="#475467">
       {tasks.map((task) => (
-        <TaskCard key={task.id} task={task} />
+        <TaskCard key={task._id} task={task} related={false} />
       ))}
     </Flex>
   );
