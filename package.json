@@ -1,0 +1,12 @@
+{
+  "name": "task-management",
+  "version": "1.0.0",
+  "description": "Welcome to the task management! This project is a full-stack application built with React, Chakra UI, and TypeScript on the client side, and Node.js, Express, and MongoDB on the backend. It utilizes the Concurrently package to run the server and the backend simultaneously.",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd server && npm start\" \"cd client && npm start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
